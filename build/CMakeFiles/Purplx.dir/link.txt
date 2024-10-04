@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Purplx.dir/src/main.c.o CMakeFiles/Purplx.dir/src/Purplx.c.o CMakeFiles/Purplx.dir/src/Mesh.c.o CMakeFiles/Purplx.dir/lib/glad.c.o -o Purplx  /usr/lib/libglfw.so.3.4 -lGL

@@ -1,0 +1,3 @@
+/home/woodendoor77/Coding/Purplx/build/CMakeFiles/Purplx.dir
+/home/woodendoor77/Coding/Purplx/build/CMakeFiles/edit_cache.dir
+/home/woodendoor77/Coding/Purplx/build/CMakeFiles/rebuild_cache.dir

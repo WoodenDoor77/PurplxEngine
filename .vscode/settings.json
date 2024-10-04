@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "sdl.h": "c",
+        "stdio.h": "c",
+        "glfw3.h": "c",
+        "purplx.h": "c",
+        "glad.h": "c",
+        "stdlib.h": "c"
+    }
+}
